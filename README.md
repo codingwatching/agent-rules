@@ -1,4 +1,4 @@
-# Agent Rules
+# 📜 Agent Rules
 
 A collection of reusable rules and knowledge documents for AI coding assistants like Claude Code and Cursor.
 
